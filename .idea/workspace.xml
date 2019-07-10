@@ -4,8 +4,6 @@
     <list default="true" id="5cab8b6e-dfa0-4286-af28-0a0f0701444c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../gestao_cliente/clientes/templatetags/filters.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gestao_cliente/clientes/templatetags/mytags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gestao_cliente/.idea/gestao_clientes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestao_cliente/.idea/gestao_clientes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gestao_cliente/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestao_cliente/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gestao_cliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestao_cliente/.idea/workspace.xml" afterDir="false" />
@@ -18,7 +16,6 @@
       <change beforePath="$PROJECT_DIR$/../gestao_cliente/gestao_clientes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gestao_cliente/gestao_clientes/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gestao_cliente/home/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../gestao_cliente/home/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gestao_cliente/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../gestao_cliente/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +28,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -74,8 +80,8 @@
         <option value="$PROJECT_DIR$/templates/resultado-distancia.html" />
         <option value="$PROJECT_DIR$/templates/distancia-form.html" />
         <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -177,22 +183,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562729870732</updated>
-      <workItem from="1562729943907" duration="3477000" />
+      <workItem from="1562729943907" duration="3734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3477000" />
+    <option name="totallyTimeSpent" value="3734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2114396" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2114396" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.77523553" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="4" />
@@ -276,15 +281,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state>
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
