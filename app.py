@@ -15,4 +15,4 @@ def calcular_distancia():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="https://oibr.herokuapp.com", debug=False)
