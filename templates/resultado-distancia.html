@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Basquete de Robo</title>
+</head>
+<body>
+{% if distancia > 0 and distancia<=800 %}
+    <h3>Valeu 1 ponto</h3>
+    {%elif distancia > 800 and distancia<=1400 %}
+    <h3>Valeu 2 ponto</h3>
+    {%elif distancia > 1400 and distancia<=2000 %}
+    <h3>Valeu 3 ponto</h3>
+    {% else %}
+    <h3>Não valeu</h3>
+    {% endif %}
+</body>
+</html>
