@@ -1,2 +1,7 @@
 gunicorn==19.9.0
-flask
+Flask
+click
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
